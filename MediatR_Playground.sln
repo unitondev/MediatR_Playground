@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediatR_Playground", "MediatR_Playground\MediatR_Playground.csproj", "{CB509BD7-64AF-4588-8CA9-1B4762570A7B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Services", "Services\Services.csproj", "{DA9A4E12-7305-413F-B579-09FED29769FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CB509BD7-64AF-4588-8CA9-1B4762570A7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB509BD7-64AF-4588-8CA9-1B4762570A7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB509BD7-64AF-4588-8CA9-1B4762570A7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB509BD7-64AF-4588-8CA9-1B4762570A7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA9A4E12-7305-413F-B579-09FED29769FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA9A4E12-7305-413F-B579-09FED29769FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA9A4E12-7305-413F-B579-09FED29769FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA9A4E12-7305-413F-B579-09FED29769FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
